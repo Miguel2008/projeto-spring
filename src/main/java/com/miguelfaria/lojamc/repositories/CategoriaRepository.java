@@ -1,0 +1,11 @@
+package com.miguelfaria.lojamc.repositories;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import com.miguelfaria.lojamc.domain.Categoria;
+
+@Repository
+public interface CategoriaRepository extends JpaRepository<Categoria, Integer> {
+
+}

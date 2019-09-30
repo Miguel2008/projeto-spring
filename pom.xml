@@ -3,13 +3,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.nelioalves.cursomc</groupId>
-	<artifactId>cursomc</artifactId>
+	<groupId>com.miguelfaria.lojamc</groupId>
+	<artifactId>lojamc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>cursomc</name>
-	<description>Estudo de caso Java para curso de Modelagem Conceitual com UML</description>
+	<name>lojamc</name>
+	<description>Estudo de caso Java de Modelagem Conceitual com UML</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
